@@ -1,5 +1,5 @@
 - 🇹🇼 Hi, I’m @gitakachan from Taipei, Taiwan.
-- 🌱 I’m currently learning Vue.js and Node.js.
+- 🌱 I’m currently learning Vue.js.
 - 📫 How to reach me: celiachenic@gmail.com
 
 <!---
